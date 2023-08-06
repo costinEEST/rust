@@ -5,6 +5,11 @@
 - `cargo new hello_world`
 - `cd hello_world && cargo run`
 
+# Debug
+
+- `rustc --explain E0308`
+- [`rustc --explain E0106`](https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html#lifetime-elision)
+
 # Docs
 
 - https://doc.rust-lang.org/rust-by-example/hello/print.html
