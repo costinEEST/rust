@@ -33,6 +33,7 @@
 - https://upsuper.github.io/rust-cheatsheet
 - [A Rust Syntax Guide](https://gist.github.com/brson/9dec4195a88066fa42e6)
 - [Error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
+- [Let's get rusty](https://docs.google.com/document/d/1kQidzAlbqapu-WZTuw4Djik0uTqMZYyiMXTM9F21Dz4)
 
 # Course
 
