@@ -6,7 +6,7 @@
 
 - [Yet Another Rust Resource](./yarr)
 - [Programming Rust by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall. Shows how Rust work in memory for in deep understanding. In depth detail about heap/stack.](./programming-rust/)
-- https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6
+- https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6 + https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 - https://www.rustinaction.com + https://github.com/rust-in-action/code + https://www.manning.com/books/rust-in-action + https://www.youtube.com/playlist?list=PLwtLEJr-BkXZgf0WOq3HGbNi9nN6eppVC
 - https://github.com/rust-lang/rust-by-example + https://github.com/second-state/rust-by-example-ext
 - [Tour of Rust: explore rust with playground](https://github.com/richardanaya/tour_of_rust) + https://book.gist.rs/bye.html#-playing
@@ -99,10 +99,15 @@
 
 - https://play.rust-lang.org or https://tio.run/#rust
 - [Find the build status of recent nightly toolchains and components](https://rust-lang.github.io/rustup-components-history)
-- https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer
+- [A Rust compiler front-end for IDEs](https://github.com/rust-lang/rust-analyzer)
 - [State of Rust support by text editors and their integrated brethren](https://areweideyet.com)
 - [Interactive visualizations of Rust at compile-time and run-time](https://github.com/cognitive-engineering-lab/aquascope)
 - [cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code](https://github.com/pacak/cargo-show-asm)
+- [AI assistant for software developers](https://github.com/codota/tabnine-vscode)
+- [VSCode extension that enhances display of errors and warnings](https://github.com/usernamehw/vscode-error-lens)
+- [Simplify Dependency Management in Rust & VSCode](https://github.com/serayuzgur/crates)
+- [A versatile, feature-rich TOML toolkit(https://github.com/tamasfe/taplo)
+- [A native debugger extension for VSCode based on LLDB](https://github.com/vadimcn/codelldb)
 
 # Watch
 
