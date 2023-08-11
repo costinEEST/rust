@@ -19,9 +19,9 @@
 - [Getting Started with Secure Embedded Systems by Alexandru Radovici and Ioana Culic](https://github.com/WyliodrinEmbeddedIoT/getting-started-with-secure-embedded-systems)
 - [Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch](https://github.com/mytechnotalent/Hacking-Rust)
 - [Rust Crash Course by Michael Snoyman](https://github.com/lambda-magic/plt-books/blob/master/Rust/Rust_Crash_Course.pdf) https://beginrust.gumroad.com/l/beginrust + https://www.youtube.com/playlist?list=PL0i2y2dZ14-SOo77l26yn6m6R01BU33Ov
-- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos + [WASM on the server](https://www.youtube.com/playlist?list=PL2q9pua8FpiWl53e8PlebayuXY7qobg75)
-
-- [Rust courses for TypeScript developers](https://github.com/arendjr/rust-for-ts-devs)
+- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos + [WASM on the server](https://www.youtube.com/playlist?list=PL2q9pua8FpiWl53e8PlebayuXY7qobg75) + https://github.com/kainino0x/wasm-call-js-from-rust + https://github.com/ferrous-systems/wasm-training-2022
+- [`Zero to production in Rust`, a book on API development](https://github.com/LukeMathWalker/zero-to-production)
+- [Rust courses for TypeScript developers](https://github.com/arendjr/rust-for-ts-devs) + https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword
 
 # Course
 
@@ -33,6 +33,15 @@
 - https://learn.microsoft.com/en-us/shows/beginners-series-to-rust + https://learn.microsoft.com/en-us/training/paths/rust-first-steps
 - https://zerotomastery.io/courses/learn-rust + https://github.com/jayson-lennon/ztm-rust + https://youtu.be/lzKeecy4OmQ + https://zerotomastery.io/cheatsheets/rust-cheat-sheet
 - Twitter clone: https://github.com/jayson-lennon/ztm-project-uchat + https://academy.zerotomastery.io/courses/2090710/lectures
+- [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule)
+- [An Experimental Course on Operating Systems](https://cs140e.sergio.bz/syllabus)
+
+# Community
+
+- https://github.com/plabayo/learn-rust-101
+- https://rustbeginners.github.io/awesome-rust-mentors
+- https://github.com/rust-unofficial/awesome-rust#resources
+- https://github.com/jondot/rust-how-do-i-start
 
 # Dump
 
@@ -52,7 +61,7 @@
 - https://github.com/ZhangHanDong/tao-of-rust-codes/blob/master/tao_of_rust_english.md
 - https://zsiciarz.github.io/24daysofrust/index.html + https://github.com/zsiciarz/24daysofrust
 - https://aml3.github.io/RustTutorial/html/toc.html
-- [Rust for C++ programmers](https://github.com/nrc/r4cppp) + [How to adapt your C++ thinking to the new facilities available in Rust](https://github.com/google/rust-design-faq) + [Safe interop between Rust and C++](https://github.com/dtolnay/cxx) + https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox
+- [Rust for C++ programmers](https://github.com/nrc/r4cppp) + [How to adapt your C++ thinking to the new facilities available in Rust](https://github.com/google/rust-design-faq) + [Safe interop between Rust and C++](https://github.com/dtolnay/cxx) + https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox + https://youtu.be/H4HQMH5x0Ak + [C++ RAII vs Rust OBRM - Part 1](https://youtu.be/AnFaf-L_DfE)
 - https://github.com/danbugs/danlogs/tree/master/WebAssembly + https://www.youtube.com/playlist?list=PLK_g1a_cAfaac7RKr-MUCNQBxKLtFfVNo
 - https://willcrichton.net/notes/rust-memory-safety
 - https://www.rustadventure.dev/introducing-clap
@@ -73,6 +82,9 @@
 - https://kerkour.com/rust-read-file
 - http://intorust.com/tutorial/ownership
 - https://about.gitlab.com/blog/2023/08/10/learning-rust-with-a-little-help-from-ai-code-suggestions-getting-started + https://www.youtube.com/playlist?list=PL2q9pua8FpiWqIp3oF7HStKLzAbduYKH4 + https://medium.com/rustaceans-thrive/how-to-learn-rust-using-chatgpt-4-fd01b8f7efe5
+- [Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle](https://github.com/bcnrust/devbcn-workshop) + https://twitter.com/shuttle_dev/status/1677287805179887616 + https://www.youtube.com/watch?v=DCpILwGas-M + https://www.youtube.com/playlist?list=PLSHEBKvWAqiSRjPTKrjJVy4qkafPUupX8
+- https://github.com/robertohuertasm/rust-for-android-ios-flutter
+- [A proxy framework to anonymise your network traffic](https://github.com/plabayo/rama)
 
 # Gotchas
 
@@ -92,7 +104,8 @@
 
 # Radio
 
-- https://rustacean-station.org
+- https://newrustacean.com
+- https://rustacean-station.org/episode/042-ben-striegel
 - https://rustacean-station.org/episode/tiemoko-ballo
 
 # Tool
@@ -111,6 +124,7 @@
 
 # Watch
 
+- https://github.com/jamesmunns/awesome-rust-streaming
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdl_h7_pbbBwGEMkBA1g5Yc
 - https://medium.com/@lindblomdev/list/pragmatic-intro-to-rust-web-development-137a5e632cf5 + https://www.youtube.com/playlist?list=PL4bcKu1Oi0f5eYmYJAOTYLGN7Lgr_B7mZ
 - https://github.com/dtolnay/proc-macro-workshop
