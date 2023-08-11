@@ -1,3 +1,7 @@
+# AI
+
+- [Multi-platform desktop app to download and run Large Language Models(LLM) locally in your computer](https://github.com/juliooa/secondbrain) + https://twitter.com/julioandresdev/status/1661459801413500929 + https://www.youtube.com/playlist?list=PLK8PX2tfaymtuoedLeldnEQGSoZH9vDSq
+
 # Book
 
 - [Yet Another Rust Resource](./yarr)
@@ -15,13 +19,16 @@
 - [Getting Started with Secure Embedded Systems by Alexandru Radovici and Ioana Culic](https://github.com/WyliodrinEmbeddedIoT/getting-started-with-secure-embedded-systems)
 - [Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch](https://github.com/mytechnotalent/Hacking-Rust)
 - [Rust Crash Course by Michael Snoyman](https://github.com/lambda-magic/plt-books/blob/master/Rust/Rust_Crash_Course.pdf) https://beginrust.gumroad.com/l/beginrust + https://www.youtube.com/playlist?list=PL0i2y2dZ14-SOo77l26yn6m6R01BU33Ov
-- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos
+- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos + [WASM on the server](https://www.youtube.com/playlist?list=PL2q9pua8FpiWl53e8PlebayuXY7qobg75)
 
 - [Rust courses for TypeScript developers](https://github.com/arendjr/rust-for-ts-devs)
 
 # Course
 
+- [Curso completo del lenguaje Rust | Julio Andrés Olivares](./curso-completo-rust)
 - [Ultimate Rust | Nathan Stocks](./utimate-rust/)
+- [Rust lang: The complete beginner's guide 2023 | Catalin Stefan](./rustaceans)
+- [Learn Rust by Building Real Applications | Lyubomir Gavadinov](./rust-fundamentals)
 - [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19) + https://www.youtube.com/playlist?list=PLY6oTPmKnKbathG2Iw1sXC8i_lHb-jj4I
 - https://learn.microsoft.com/en-us/shows/beginners-series-to-rust + https://learn.microsoft.com/en-us/training/paths/rust-first-steps
 - https://zerotomastery.io/courses/learn-rust + https://github.com/jayson-lennon/ztm-rust + https://youtu.be/lzKeecy4OmQ + https://zerotomastery.io/cheatsheets/rust-cheat-sheet
@@ -65,6 +72,7 @@
 - https://github.com/memark/advent-of-code/tree/main/2022
 - https://kerkour.com/rust-read-file
 - http://intorust.com/tutorial/ownership
+- https://about.gitlab.com/blog/2023/08/10/learning-rust-with-a-little-help-from-ai-code-suggestions-getting-started + https://www.youtube.com/playlist?list=PL2q9pua8FpiWqIp3oF7HStKLzAbduYKH4 + https://medium.com/rustaceans-thrive/how-to-learn-rust-using-chatgpt-4-fd01b8f7efe5
 
 # Gotchas
 
