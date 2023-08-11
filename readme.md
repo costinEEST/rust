@@ -5,9 +5,9 @@
 # Book
 
 - [Yet Another Rust Resource](./yarr)
-- [Programming Rust by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall. Shows how Rust work in memory for in deep understanding. In depth detail about heap/stack.](./programming-rust/)
-- https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6 + https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
-- https://www.rustinaction.com + https://github.com/rust-in-action/code + https://www.manning.com/books/rust-in-action + https://www.youtube.com/playlist?list=PLwtLEJr-BkXZgf0WOq3HGbNi9nN6eppVC
+- [Programming Rust by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall. Shows how Rust work in memory for in depth understanding. In depth details about heap/stack.](./programming-rust/)
+- https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://github.com/psibi/rust-book-summary + https://github.com/barabadzhi/trpl + https://github.com/kevinalh/rust-book + https://github.com/bashforgo/learning-rust + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6 + https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
+- https://www.rustinaction.com + https://github.com/rust-in-action/code + https://github.com/barabadzhi/rust-in-action + https://www.manning.com/books/rust-in-action + https://www.youtube.com/playlist?list=PLwtLEJr-BkXZgf0WOq3HGbNi9nN6eppVC
 - https://github.com/rust-lang/rust-by-example + https://github.com/second-state/rust-by-example-ext
 - [Tour of Rust: explore rust with playground](https://github.com/richardanaya/tour_of_rust) + https://book.gist.rs/bye.html#-playing
 - [Learn Rust the Dangerous Way: covers Rust from the perspective of low-level C programmers](http://cliffle.com/p/dangerust)
@@ -19,9 +19,20 @@
 - [Getting Started with Secure Embedded Systems by Alexandru Radovici and Ioana Culic](https://github.com/WyliodrinEmbeddedIoT/getting-started-with-secure-embedded-systems)
 - [Rust hacking tutorial utilizing the x64, ARM64 and ARM32 architectures going step-by-step into the world of reverse engineering Rust from scratch](https://github.com/mytechnotalent/Hacking-Rust)
 - [Rust Crash Course by Michael Snoyman](https://github.com/lambda-magic/plt-books/blob/master/Rust/Rust_Crash_Course.pdf) https://beginrust.gumroad.com/l/beginrust + https://www.youtube.com/playlist?list=PL0i2y2dZ14-SOo77l26yn6m6R01BU33Ov
-- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos + [WASM on the server](https://www.youtube.com/playlist?list=PL2q9pua8FpiWl53e8PlebayuXY7qobg75) + https://github.com/kainino0x/wasm-call-js-from-rust + https://github.com/ferrous-systems/wasm-training-2022
+- https://github.com/rustwasm/book + https://book.gist.rs/bye.html#wasm-resources + https://book.gist.rs/wasm/setup.html + [UI in Rust and Wasm | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBpRg1KbXqxE5WOdY9ze37S) + https://www.youtube.com/@wasmio/videos + [WASM on the server](https://www.youtube.com/playlist?list=PL2q9pua8FpiWl53e8PlebayuXY7qobg75) + https://github.com/kainino0x/wasm-call-js-from-rust + https://github.com/ferrous-systems/wasm-training-2022 + https://xeiaso.net/talks/webassembly-on-the-server-system-calls-2019-05-31
 - [`Zero to production in Rust`, a book on API development](https://github.com/LukeMathWalker/zero-to-production)
 - [Rust courses for TypeScript developers](https://github.com/arendjr/rust-for-ts-devs) + https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword
+- [The Rust EPUB Bookshelf](https://github.com/rams3s/rust-ebookshelf)
+- https://github.com/smhmayboudi/awesome-rust-mdbooks
+- https://github.com/nnethercote/perf-book + https://nnethercote.github.io/perf-book
+- https://github.com/kyclark/command-line-rust
+
+# Cheat sheet
+
+- https://github.com/ralfbiedert/cheats.rs
+- https://upsuper.github.io/rust-cheatsheet
+- [A Rust Syntax Guide](https://gist.github.com/brson/9dec4195a88066fa42e6)
+- [Error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
 
 # Course
 
@@ -32,9 +43,10 @@
 - [CS 242: Programming Languages, Fall 2019](https://stanford-cs242.github.io/f19) + https://www.youtube.com/playlist?list=PLY6oTPmKnKbathG2Iw1sXC8i_lHb-jj4I
 - https://learn.microsoft.com/en-us/shows/beginners-series-to-rust + https://learn.microsoft.com/en-us/training/paths/rust-first-steps
 - https://zerotomastery.io/courses/learn-rust + https://github.com/jayson-lennon/ztm-rust + https://youtu.be/lzKeecy4OmQ + https://zerotomastery.io/cheatsheets/rust-cheat-sheet
-- Twitter clone: https://github.com/jayson-lennon/ztm-project-uchat + https://academy.zerotomastery.io/courses/2090710/lectures
+- Twitter clone: https://github.com/jayson-lennon/ztm-project-uchat + https://academy.zerotomastery.io/courses/2090710/lectures + https://github.com/matheusb432/rust-uchat
 - [CIS 198: Rust Programming](http://cis198-2016s.github.io/schedule)
 - [An Experimental Course on Operating Systems](https://cs140e.sergio.bz/syllabus)
+- https://github.com/last-genius/UCU_Rust_Course
 
 # Community
 
@@ -42,6 +54,8 @@
 - https://rustbeginners.github.io/awesome-rust-mentors
 - https://github.com/rust-unofficial/awesome-rust#resources
 - https://github.com/jondot/rust-how-do-i-start
+- https://github.com/inancgumus/learnrust
+- https://github.com/timolinn/the-year-of-the-rustacean
 
 # Dump
 
@@ -56,7 +70,6 @@
 - https://github.com/LukeMathWalker/zero-to-production
 - [The Little Book of Rust Macros](https://github.com/Veykril/tlborm)
 - https://github.com/ctjhoa/rust-learning
-- [A Rust Syntax Guide](https://gist.github.com/brson/9dec4195a88066fa42e6) + https://github.com/ralfbiedert/cheats.rs
 - https://github.com/pretzelhammer/rust-blog
 - https://github.com/ZhangHanDong/tao-of-rust-codes/blob/master/tao_of_rust_english.md
 - https://zsiciarz.github.io/24daysofrust/index.html + https://github.com/zsiciarz/24daysofrust
@@ -85,6 +98,12 @@
 - [Full Stack Workshop with Rust, Actix, SQLx, Dioxus, and Shuttle](https://github.com/bcnrust/devbcn-workshop) + https://twitter.com/shuttle_dev/status/1677287805179887616 + https://www.youtube.com/watch?v=DCpILwGas-M + https://www.youtube.com/playlist?list=PLSHEBKvWAqiSRjPTKrjJVy4qkafPUupX8
 - https://github.com/robertohuertasm/rust-for-android-ios-flutter
 - [A proxy framework to anonymise your network traffic](https://github.com/plabayo/rama)
+- https://giordi91.github.io/post/disassemlbyrust1
+- https://github.com/TimonPost/cargo-unused-features
+
+# From Kotlin
+
+- https://github.com/emmabritton/kotlin-rust-guide
 
 # Gotchas
 
@@ -96,6 +115,7 @@
 - The original compiler was written in OCaml, and then eventually it was bootstrapped, and now Rust is written in Rust.
 - `lifetimes` allow Rust to ensure memory safety without the performance costs of `garbage collection`.
 - Rust forbids the combination of aliasing and mutation on the same location.
+- https://github.com/inancgumus/learnrust/blob/master/notes/faq.md
 
 # Security
 
