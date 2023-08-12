@@ -4,7 +4,7 @@
 
 # Book
 
-- [Yet Another Rust Resource](./yarr)
+- [Yet another Rust resource](./yarr)
 - [Programming Rust by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall. Shows how Rust work in memory for in depth understanding. In depth details about heap/stack.](./programming-rust/)
 - https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://github.com/psibi/rust-book-summary + https://github.com/barabadzhi/trpl + https://github.com/kevinalh/rust-book + https://github.com/bashforgo/learning-rust + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6 + https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 - https://www.rustinaction.com + https://github.com/rust-in-action/code + https://github.com/barabadzhi/rust-in-action + https://www.manning.com/books/rust-in-action + https://www.youtube.com/playlist?list=PLwtLEJr-BkXZgf0WOq3HGbNi9nN6eppVC
@@ -30,6 +30,7 @@
 # Cheat sheet
 
 - https://github.com/ralfbiedert/cheats.rs
+- https://programming-idioms.org/cheatsheet/Rust/C
 - https://upsuper.github.io/rust-cheatsheet
 - [A Rust Syntax Guide](https://gist.github.com/brson/9dec4195a88066fa42e6)
 - [Error codes index](https://doc.rust-lang.org/error_codes/error-index.html)
@@ -101,6 +102,16 @@
 - [A proxy framework to anonymise your network traffic](https://github.com/plabayo/rama)
 - https://giordi91.github.io/post/disassemlbyrust1
 - https://github.com/TimonPost/cargo-unused-features
+- https://github.com/go-outside-labs/master-algorithms-rs
+- https://github.com/tchajed/minimal-elf
+
+# From C
+
+- A Rust `enum` is equivalent to a [`tagged union`](https://blog.ryanmartin.me/tagged-unions)
+
+# From Javascript
+
+- [Is Rust's `enum` the equivalent of an object literal in Javascript?](https://chat.openai.com/share/98231466-4fd5-4284-b3bf-bb1feb494b79)
 
 # From Kotlin
 
@@ -131,6 +142,7 @@
 
 # Tool
 
+- [x86 / x64 Assembler and Disassembler](https://defuse.ca/online-x86-assembler.htm)
 - https://play.rust-lang.org or https://tio.run/#rust
 - [Find the build status of recent nightly toolchains and components](https://rust-lang.github.io/rustup-components-history)
 - [A Rust compiler front-end for IDEs](https://github.com/rust-lang/rust-analyzer)
