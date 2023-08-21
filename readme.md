@@ -4,7 +4,7 @@
 
 # Book
 
-- [Yet another Rust resource](./yarr)
+- [Yet another Rust resource | Nicholas Tietz-Sokolsky](./yarr)
 - [Programming Rust by Jim Blandy, Jason Orendorff, Leonora F . S. Tindall. Shows how Rust work in memory for in depth understanding. In depth details about heap/stack.](./programming-rust/)
 - https://www.rust-lang.org/learn + [The Rust Programming Language by Steve Klabnik and Carol Nichols](https://github.com/cognitive-engineering-lab/rust-book) + https://github.com/psibi/rust-book-summary + https://github.com/barabadzhi/trpl + https://github.com/kevinalh/rust-book + https://github.com/bashforgo/learning-rust + https://www.manning.com/livevideo/rust-in-motion + https://www.youtube.com/playlist?list=PLK_g1a_cAfaaAO6io1Tluy7EZXhAAK1lC + https://github.com/danbugs/danlogs/tree/master/Rust/The%20Rust%20Programming%20Language%20-%20Tutorials + https://www.youtube.com/playlist?list=PLSbgTZYkscaoV8me47mKqSM6BBSZ73El6 + https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8
 - https://www.rustinaction.com + https://github.com/rust-in-action/code + https://github.com/barabadzhi/rust-in-action + https://www.manning.com/books/rust-in-action + https://www.youtube.com/playlist?list=PLwtLEJr-BkXZgf0WOq3HGbNi9nN6eppVC
@@ -63,7 +63,6 @@
 
 - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - [`find . -maxdepth 2 -type d -name target -delete`](https://twitter.com/ThePrimeagen/status/1687531550370365447)
-- [Rustlings: learn by fixing bugs](https://github.com/rust-lang/rustlings) + https://youtu.be/G3Vr-yswlaU + [Rust for JavaScript Developers | chrisbiscardi](https://www.youtube.com/playlist?list=PLWtPciJ1UMuBH4NYU14LTbWQLRlmF9mez)
 - https://hackernoon.com/rust-from-0-to-80percent-for-javascript-developers
 - https://marabos.nl/atomics
 - https://github.com/Mercateo/rust-for-node-developers
@@ -104,6 +103,9 @@
 - https://github.com/TimonPost/cargo-unused-features
 - https://github.com/go-outside-labs/master-algorithms-rs
 - https://github.com/tchajed/minimal-elf
+- [Wasm website to edit `.bmp` files online, using `bmp-rust` library](https://github.com/jetstream0/BMP-Editor)
+- https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import
+- [Thoughts on Rust | Nicholas C. Zakas](https://ckarchive.com/b/lmuehmh0vx87w)
 
 # From C
 
@@ -139,6 +141,7 @@
 - https://newrustacean.com
 - https://rustacean-station.org/episode/042-ben-striegel
 - https://rustacean-station.org/episode/tiemoko-ballo
+- https://changelog.com/podcast/443
 
 # Tool
 
