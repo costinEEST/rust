@@ -273,6 +273,7 @@
 # Watch
 
 - https://m.youtube.com/playlist?list=PLWIcRrPLCdUdl_h7_pbbBwGEMkBA1g5Yc
+- https://drive.google.com/file/d/1CoE91stPn23aRgzVxNFz92fGBB_QAzcA/view
 - [Rust Linz, June 2021 - Tim McNamara - How to learn Rust](./how-to-learn-Rust_Tim-McNamara_2021.md)
 - https://github.com/jamesmunns/awesome-rust-streaming
 - https://medium.com/@lindblomdev/list/pragmatic-intro-to-rust-web-development-137a5e632cf5 + https://www.youtube.com/playlist?list=PL4bcKu1Oi0f5eYmYJAOTYLGN7Lgr_B7mZ

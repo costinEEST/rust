@@ -38,3 +38,11 @@
 - `const` and `static` need to be typed because the Rust would not infer the type for them.
 - `const` is for values that don't change, and are created at compile time.
 - `static` is similar to `const`, but has a fixed memory location. It might not be created at compile time.
+- If you think you know how many elements you need, you can use [`Vec::with_capacity()`](https://doc.rust-lang.org/std/vec/struct.Vec.html#method.with_capacity) to use less memory.
+- When you don't return anything in a function, you actually return an empty tuple ([`unit type`](https://doc.rust-lang.org/beta/std/primitive.unit.html)).
+- `String::from()` is idiomatic for directly turning string literals into `String` objects.
+- `to_string()` is more general and can be used on any type implementing the `ToString` trait, making it useful for converting various types to their string representation.
+- Use a `struct` when you want one thing **AND** another thing.
+- Use an `enum` when you want one thing **OR** another thing.
+- Structs are for **many things** together, while enums are for **many possible choices**.
+- When you use a method, Rust will dereference for you until it reaches the original type. The `.` in a method is called the _dot operator_, and it does dereferencing for free.
