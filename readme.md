@@ -28,7 +28,7 @@
 - https://github.com/nnethercote/perf-book + https://nnethercote.github.io/perf-book
 - https://github.com/kyclark/command-line-rust
 - [Learn Rust in a month of lunches | David MacLeod (2024)](./learn-rust-in-a-month-of-lunches/)
-- https://www.youtube.com/playlist?list=PLfllocyHVgsR_MVp_RyBwujomqYyIGDdE + https://www.youtube.com/playlist?list=PL8AZrEE2-qZkE3Va-PsMepuUFxALaJheW + https://github.com/m-ou-se/rust-atomics-and-locks
+- https://www.youtube.com/playlist?list=PLfllocyHVgsR_MVp_RyBwujomqYyIGDdE + https://www.youtube.com/playlist?list=PL8AZrEE2-qZkE3Va-PsMepuUFxALaJheW + https://github.com/m-ou-se/rust-atomics-and-locks + https://twitter.com/Tony_Barotsis/status/1685382904996593664
 - [The Dark Arts of Advanced and Unsafe Rust Programming](https://github.com/rust-lang/nomicon) + https://www.ralfj.de/blog/2023/06/13/undefined-behavior-talk.html + https://youtu.be/d8hd_uv3Gvg + [You can't spell trust without Rust | Aria Beingessner](https://faultlore.com/blah/papers/thesis.pdf) + https://github.com/Gankra/thesis/blob/master/thesis.pdf + https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it
 - https://github.com/lazear/types-and-programming-languages
 - [Evaluation of performance and productivity metrics of potential programming languages in the HPC environment | Florian Wilkens](https://github.com/1wilkens/thesis-ba)
@@ -190,6 +190,7 @@
 # From Java
 
 - https://craftinginterpreters.com/contents.html + https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN
+- [Rust vs. Java vs. Dart](https://github.com/andpush/multilang_threads_benchmark)
 
 # From Javascript
 
@@ -208,6 +209,7 @@
 - https://kobzol.github.io/rust/python/2023/05/20/writing-python-like-its-rust.html
 - https://blog.stackademic.com/after-using-rust-the-way-i-use-python-has-changed-d6ee31360729
 - https://github.com/PacktPublishing/Speed-up-your-Python-with-Rust + https://youtu.be/g_BoTxoubM8
+- https://antoniosbarotsis.github.io/posts/python_package_written_in_rust
 
 # Gotchas
 
@@ -289,3 +291,4 @@
 - https://www.youtube.com/playlist?list=PLfHJt4o9-rmBxcAwsbasj9K0dQ6YGrcsM + https://github.com/brndnmtthws/cracking-the-coding-interview-rust
 - [Nick Cameron](https://github.com/nrc/talks)
 - Quantum Chemistry: https://github.com/ntBre/qcrab + https://m.youtube.com/playlist?list=PL3nY3J1rj8Kl0UVq0aZ-DbEX5edDZz8N0, https://github.com/ntBre/ProgrammingProjects, https://m.youtube.com/playlist?list=PLndgATlIsl2XGSrH69vDdiv1oDSQlYr3v, https://www.youtube.com/playlist?list=PL3nY3J1rj8KkkKtZlTLNLWGuVHbz9XKkV
+- https://gitlab.com/rust-espanol/aprender-rust-en-espanol + https://m.youtube.com/playlist?list=PLP3JrIiWQArVUYA2Mt8S_jVvRq_SElVWB
