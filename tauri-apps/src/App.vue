@@ -1,14 +1,12 @@
 <script lang="ts">
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
-import Greet from "./components/Greet.vue";
 import DropDown from "./components/DropDown.vue";
 
 export default {
   name: 'App',
   components: {
-    DropDown,
-    Greet
+    DropDown
   }
 }
 </script>
@@ -45,18 +43,16 @@ export default {
         >rust-analyzer</a
       >
     </p>
-
-    <Greet />
     <DropDown />
   </div>
 </template>
 
 <style scoped>
-.logo.vite:hover {
+.vite:hover {
   filter: drop-shadow(0 0 2em #747bff);
 }
 
-.logo.vue:hover {
+.vue:hover {
   filter: drop-shadow(0 0 2em #249b73);
 }
 </style>

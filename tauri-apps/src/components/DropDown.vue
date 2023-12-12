@@ -33,5 +33,18 @@ export default defineComponent({
     </option>
   </select>
 
-  <p>Skills required: <pre>{{ skillRef }}</pre></p>
+  <p>Skills required {{ selectedOption ? `for the ${selectedOption} job` : "" }}:
+  <pre>{{ skillRef }}</pre>
+  </p>
 </template>
+
+<style scoped>
+select {
+  font-size: 1.5rem;
+  padding: 15px 20px;
+}
+
+p {
+  font-style:italic;
+}
+</style>
